@@ -1,0 +1,11 @@
+{
+    "unstuck": "¡Has sido desatascado!",
+    "cooldown": "¡Tienes que esperar {1} segundos antes de usar este comando de nuevo!",
+    "fail": "No podemos desatascarte, ¡intenta de nuevo más tarde o contacta a un administrador!",
+    "no_perm": "¡No tienes permiso para usar este comando!",
+    "save_config": "Configuración guardada y enviada a todos los jugadores!",
+    "show_possible_lang": "Estas son las lenguas posibles.",
+    "show_config": "Esta es la configuración actual de 'unstuck', para editarla haz {1}",
+    "invalid_setting": "¡La configuración que intentas editar no existe!",
+    "use_cmd_word": "Para editar esta configuración usa {1} o {2}"
+}

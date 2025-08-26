@@ -1,0 +1,11 @@
+{
+    "unstuck": "Sie wurden befreit!",
+    "cooldown": "Sie müssen {1} Sekunden warten, bevor Sie diesen Befehl erneut verwenden können!",
+    "fail": "Wir können Sie nicht befreien, versuchen Sie es später erneut oder kontaktieren Sie einen Admin!",
+    "no_perm": "Sie haben keine Berechtigung, diesen Befehl zu verwenden!",
+    "save_config": "Konfiguration gespeichert und an alle Spieler gesendet!",
+    "show_possible_lang": "Dies ist die Liste aller möglichen Sprachen.",
+    "show_config": "Dies ist die aktuelle Konfiguration von 'unstuck', um sie zu bearbeiten, tun Sie {1}",
+    "invalid_setting": "Die Einstellung, die Sie versuchen zu bearbeiten, existiert nicht!",
+    "use_cmd_word": "Um diese Einstellung zu bearbeiten, verwenden Sie {1} oder {2}"
+}

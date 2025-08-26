@@ -1,0 +1,10 @@
+{
+    "info": {
+        "name": "Big City",
+        "map": "gm_bigcity",
+        "multizone": false,
+        "images": {
+            "gm_bigcity": "w9mX1Gx"
+        }
+    }
+}

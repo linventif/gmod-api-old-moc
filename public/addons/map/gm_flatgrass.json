@@ -1,0 +1,10 @@
+{
+    "info": {
+        "name": "Flat Grass",
+        "map": "gm_flatgrass",
+        "multizone": false,
+        "images": {
+            "gm_flatgrass": "2xwewat"
+        }
+    }
+}

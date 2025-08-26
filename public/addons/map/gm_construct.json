@@ -1,0 +1,11 @@
+{
+    "info": {
+        "name": "Construct",
+        "map": "gm_construct",
+        "multizone": false,
+        "images": {
+            "gm_construct": "DLAVmMH"
+        },
+        "resolution": 0.8
+    }
+}

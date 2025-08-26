@@ -1,0 +1,17 @@
+{
+    "unstuck": true,
+    "stuck": true,
+    "bloquer": true,
+    "bloqué": true,
+    "trapped": true,
+    "cantmove": true,
+    "immobile": true,
+    "blocked": true,
+    "jammed": true,
+    "coincé": true,
+    "piégé": true,
+    "jepeuxpasbouger": true,
+    "unabletomove": true,
+    "imstuck": true,
+    "letmeout": true
+}

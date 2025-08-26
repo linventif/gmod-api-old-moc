@@ -1,0 +1,10 @@
+{
+    "info": {
+        "name": "Goliath City",
+        "map": "rp_goliathcity",
+        "multizone": false,
+        "images": {
+            "rp_goliathcity": "fE8TV7D"
+        }
+    }
+}

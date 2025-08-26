@@ -1,0 +1,10 @@
+{
+    "info": {
+        "name": "Rockford",
+        "map": "rp_rockford_v2b",
+        "multizone": false,
+        "images": {
+            "rp_rockford_v2b": "02IMkDg"
+        }
+    }
+}

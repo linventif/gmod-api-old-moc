@@ -1,0 +1,10 @@
+{
+    "info": {
+        "name": "South Side",
+        "map": "rp_southside",
+        "multizone": false,
+        "images": {
+            "rp_southside": "hP8qyI2"
+        }
+    }
+}

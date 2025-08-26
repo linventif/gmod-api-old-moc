@@ -1,0 +1,11 @@
+{
+    "unstuck": "Sei stato sbloccato!",
+    "cooldown": "Devi aspettare {1} secondi prima di poter utilizzare nuovamente questo comando!",
+    "fail": "Non possiamo sbloccarti, riprova più tardi o contatta un amministratore!",
+    "no_perm": "Non hai il permesso di utilizzare questo comando!",
+    "save_config": "Configurazione salvata e inviata a tutti i giocatori!",
+    "show_possible_lang": "Questa è la lista di tutte le lingue possibili.",
+    "show_config": "Questa è l'attuale configurazione di 'unstuck', per modificarla fai {1}",
+    "invalid_setting": "L'impostazione che stai cercando di modificare non esiste!",
+    "use_cmd_word": "Per modificare questa impostazione usa {1} o {2}"
+}

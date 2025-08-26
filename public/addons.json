@@ -1,0 +1,153 @@
+{
+    "linv_map": {
+        "title": "Linventif Map",
+        "folder": "linv_map",
+        "version": "0.1.0",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961933443",
+        "imgur": "pJAMZjd"
+    },
+    "linv_stuff": {
+        "title": "Linventif Stuff",
+        "folder": "linv_stuff",
+        "version": "0.3.3",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://steamcommunity.com/sharedfiles/filedetails/?id=2882747990",
+        "imgur": "54p7B9v"
+    },
+    "linventif-library": {
+        "title": "Linventif's Stuff",
+        "folder": "linventif-library",
+        "version": "UPDATE NOW !",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://steamcommunity.com/sharedfiles/filedetails/?id=2882747990"
+    },
+    "linv_family_system": {
+        "title": "Linventif Family System",
+        "folder": "linv_family_system",
+        "version": "0.1.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/family-system"
+    },
+    "linv_vote": {
+        "title": "Linventif Vote",
+        "folder": "linv_vote",
+        "imgur": "tTUxx2i",
+        "version": "0.2.2",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://steamcommunity.com/sharedfiles/filedetails/?id=2951386517"
+    },
+    "linv_context_menu": {
+        "title": "Linventif Context Menu",
+        "folder": "linv_context_menu",
+        "version": "0.1.1",
+        "license": "Commercial",
+        "repository": "https://aide-serveur.fr/ressources/linventif-context-menu.3619"
+    },
+    "linvlib": {
+        "title": "Linventif's Stuff",
+        "folder": "linvlib",
+        "version": "UPDATE NOW !",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://steamcommunity.com/sharedfiles/filedetails/?id=2882747990",
+        "imgur": "54p7B9v"
+    },
+    "linv_vito_stuff": {
+        "title": "Linventif Vito Stuff",
+        "folder": "linv_vito_stuff",
+        "version": "0.1.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/vito-stuff/"
+    },
+    "linvfsys": {
+        "title": "Familly System",
+        "folder": "linvfsys",
+        "version": "0.1.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/familly-system"
+    },
+    "npc-medic": {
+        "title": "NPC Medic",
+        "folder": "npc-medic",
+        "version": "0.1.0",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://github.com/linventif/npc-medic"
+    },
+    "friends-system": {
+        "title": "Friends System",
+        "folder": "friends-system",
+        "version": "0.1.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/friends-system"
+    },
+    "one-hud": {
+        "title": "One HUD",
+        "folder": "one-hud",
+        "version": "0.2.0",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://github.com/linventif/one-hud"
+    },
+    "new-gen-reroll": {
+        "title": "New Gen Reroll",
+        "folder": "new-gen-reroll",
+        "version": "0.1.8",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/new-gen-reroll"
+    },
+    "vote-system": {
+        "title": "Vote System",
+        "folder": "vote-system",
+        "version": "0.1.4",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://github.com/linventif/vote-system"
+    },
+    "color-mode": {
+        "title": "Color Mode",
+        "folder": "color-mode",
+        "version": "0.1.3",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://github.com/linventif/color-mode"
+    },
+    "weapon-restrict": {
+        "title": "Weapon Restrict",
+        "folder": "weapon-restrict",
+        "version": "0.1.0",
+        "license": "CC BY-SA 4.0",
+        "repository": "https://github.com/linventif/weapon-restrict"
+    },
+    "sentro-perma": {
+        "title": "Sentro Perma",
+        "folder": "sentro-perma",
+        "version": "1.4.2",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/sentro-perma"
+    },
+    "sentro-booster": {
+        "title": "Sentro Booster",
+        "folder": "sentro-booster",
+        "version": "1.0.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/sentro-booster"
+    },
+    "granix-identity": {
+        "title": "Granix Identity",
+        "folder": "granix-identity",
+        "version": "0.1.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/granix-identity"
+    },
+    "elipok-pack": {
+        "title": "Elipok Pack",
+        "folder": "elipok-pack",
+        "version": "0.1.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/elipok-pack"
+    },
+    "learn-skills": {
+        "title": "Learn Skills",
+        "folder": "learn-skills",
+        "version": "1.0.0",
+        "license": "Commercial",
+        "repository": "https://github.com/linventif/learn-skills"
+    }
+}

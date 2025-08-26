@@ -1,0 +1,42 @@
+{
+    "info": {
+        "name": "Pokemon Ald Plus",
+        "map": "rp_pkm_aldplus",
+        "multizone": true,
+        "images": {
+            "rp_pkm_aldplus": "02IMkDg",
+            "zone_1": "yuBXrB0",
+            "zone_2": "vKqqzWL"
+        }
+    },
+    "zones": {
+        "1": {
+            "pos_start": {
+                "x": -7460,
+                "y": -4629,
+                "z": -683
+            },
+            "pos_end": {
+                "x": 4777,
+                "y": -15181,
+                "z": 1834
+            },
+            "image_id": "zone_1",
+            "name": "Zone 1"
+        },
+        "2": {
+            "pos_start": {
+                "x": -7460,
+                "y": -4629,
+                "z": -683
+            },
+            "pos_end": {
+                "x": 4777,
+                "y": -15181,
+                "z": 1834
+            },
+            "image_id": "zone_2",
+            "name": "Zone 2"
+        }
+    }
+}

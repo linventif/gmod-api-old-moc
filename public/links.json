@@ -1,0 +1,94 @@
+{
+    "1": {
+        "name": "Primary",
+        "links": {
+            "1": {
+                "site": "Discord",
+                "pseudo": "linventif",
+                "description": "",
+                "url": "https://linv.dev/discord",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "2": {
+                "site": "Steam",
+                "pseudo": "linventif",
+                "description": "",
+                "url": "https://linv.dev/steam",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "3": {
+                "site": "GitHub",
+                "pseudo": "linventif",
+                "description": "",
+                "url": "https://linv.dev/github",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "4": {
+                "site": "YouTube",
+                "pseudo": "linventif_off",
+                "description": "",
+                "url": "https://linv.dev/youtube",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            }
+        }
+    },
+    "2": {
+        "name": "Social",
+        "links": {
+            "1": {
+                "site": "Twitter",
+                "pseudo": "Linventif",
+                "description": "",
+                "url": "https://linv.dev/twitter",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "2": {
+                "site": "Instagram",
+                "pseudo": "linventif_off",
+                "description": "",
+                "url": "https://linv.dev/instagram",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "3": {
+                "site": "Twitch",
+                "pseudo": "linventif",
+                "description": "",
+                "url": "https://linv.dev/twitch",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "4": {
+                "site": "Telegram",
+                "pseudo": "linventif_off",
+                "description": "",
+                "url": "https://linv.dev/telegram",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "5": {
+                "site": "LinkedIn",
+                "pseudo": "linventif",
+                "description": "",
+                "url": "https://linv.dev/linkedin",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            }
+        }
+    },
+    "3": {
+        "name": "Website",
+        "links": {
+            "1": {
+                "site": "Linventif",
+                "pseudo": "",
+                "description": "",
+                "url": "https://linv.dev",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            },
+            "2": {
+                "site": "Gmod Integration",
+                "pseudo": "",
+                "description": "",
+                "url": "https://gmod-integration.com",
+                "image": "https://i.imgur.com/oPq5ZVE.png"
+            }
+        }
+    }
+}

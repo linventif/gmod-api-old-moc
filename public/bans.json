@@ -1,0 +1,79 @@
+{
+    "1": {
+        "pseudo": "Orion TV",
+        "discord_id": "645610053923110922",
+        "steamid64": "76561198361589002",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "Hacking - Stolen Account - Dangerous",
+        "date": "2022-12-30",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    },
+    "2": {
+        "pseudo": "Double Account",
+        "discord_id": "xxxxxxxxxxxxxxxxxx",
+        "steamid64": "76561199131744532",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "Stealed Account",
+        "date": "2022-10-30",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    },
+    "3": {
+        "pseudo": "Sentro KLX",
+        "discord_id": "902319971126878258",
+        "steamid64": "76561199148805676",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "A Fuckin Ass Hole",
+        "date": "2023-01-28",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    },
+    "4": {
+        "pseudo": "Double Account",
+        "discord_id": "xxxxxxxxxxxxxxxxxx",
+        "steamid64": "76561199412157414",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "Stealed Account",
+        "date": "2022-01-28",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    },
+    "5": {
+        "pseudo": "Double Account",
+        "discord_id": "xxxxxxxxxxxxxxxxxx",
+        "steamid64": "76561199174184472",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "Server Crash",
+        "date": "2023-02-26",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    },
+    "6": {
+        "pseudo": "Double Account",
+        "discord_id": "xxxxxxxxxxxxxxxxxx",
+        "steamid64": "76561199182886887",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "Server Crash",
+        "date": "2023-02-26",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    },
+    "7": {
+        "pseudo": "ma.boutique.pockerface",
+        "discord_id": "xxxxxxxxxxxxxxxxxx",
+        "steamid64": "76561199493948684",
+        "scope": "Global",
+        "banned_by": "Linventif",
+        "reason": "Net Exploit",
+        "date": "2023-04-20",
+        "duration": "Permanent",
+        "end_date": "0000-00-00"
+    }
+}

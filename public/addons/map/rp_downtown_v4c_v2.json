@@ -1,0 +1,10 @@
+{
+    "info": {
+        "name": "Downtown",
+        "map": "rp_downtown_v4c_v2",
+        "multizone": false,
+        "images": {
+            "rp_downtown_v4c_v2": "WhGhVki"
+        }
+    }
+}
